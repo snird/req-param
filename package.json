@@ -1,0 +1,16 @@
+{
+  "name": "req-param",
+  "version": "1.0.0",
+  "description": "the req.param() function for express, as implemented in express 3 and 4, without deprecation warnings",
+  "keywords" : "migrate express3 express4",
+  "main": "lib/index.js",
+  "author": "Snir David",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/snird/req-param.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  }
+}
