@@ -4,7 +4,7 @@
   "description": "the req.param() function for express, as implemented in express 3 and 4, without deprecation warnings",
   "keywords" : "migrate express3 express4",
   "main": "lib/index.js",
-  "author": "Snir David",
+  "author": "Snir David <snirda@gmail.com> (https://github.com/snird/)",
   "license": "MIT",
   "repository": {
     "type" : "git",
